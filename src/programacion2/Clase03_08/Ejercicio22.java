@@ -13,7 +13,7 @@ public class Ejercicio22 {
         Scanner ingreso = new Scanner(System.in);
         int edad;
         double arañas;
-        double mosquitos;
+        double mosquito;
         double zancudos;
         double totalInsectos;
         
@@ -21,13 +21,13 @@ public class Ejercicio22 {
         edad = ingreso.nextInt();
         
         arañas = (4 * 0.1 * edad) / 1000;
-        mosquitos = (8 * 0.05 * edad) / 1000;
+        mosquito = (8 * 0.05 * edad) / 1000;
         zancudos = (6 * 0.095 * edad) / 1000;
         
-        totalInsectos = (arañas + mosquitos + zancudos);
+        totalInsectos = (arañas + mosquito + zancudos);
         
         System.out.println("A consumido " + arañas + " Kg de arañas.");
-        System.out.println("A consumido " + mosquitos + " Kg de mosquitos.");
+        System.out.println("A consumido " + mosquito + " Kg de mosquitos.");
         System.out.println("A consumido " + zancudos + " Kg de zancudos.");
         System.out.println("En total a consumido un total de " + totalInsectos + " Kg de insectos.");
         
