@@ -3,7 +3,7 @@ Para crear una hoja, es necesario el uso de 2560 gramos de madera y un árbol pa
 pesa en promedio tres cuartos de tonelada. Calcular ¿cuántos árboles se necesitan para
 crear n resmas de papel? Si una resma son 500 hojas.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import java.util.Scanner;
 

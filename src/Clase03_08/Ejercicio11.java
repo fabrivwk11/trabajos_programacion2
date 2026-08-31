@@ -2,7 +2,7 @@
 11. Calcular el área de un trapecio.
 Area = (Base Mayor + Base Menor) * altura / 2
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import java.util.Scanner;
 

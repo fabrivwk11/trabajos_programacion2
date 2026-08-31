@@ -2,7 +2,7 @@
 13. Calcular el área de un tetraedro.
 Area = √3 * a2      (a = arista)
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;

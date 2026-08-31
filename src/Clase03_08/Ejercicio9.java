@@ -4,7 +4,7 @@ volumen del cilindro y mostrar el resultado.
 La fórmula para calcular el volumen de un cilindro es: V = Pi * radio2
 * altura.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import java.util.Scanner;

@@ -2,7 +2,7 @@
 Escribir un programa que imprima entero, por ejemplo, el 125, un
 número decimal, por ejemplo, el 3.1416.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 /**
  *

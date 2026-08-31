@@ -2,7 +2,7 @@
 Escribir un programa que imprima la frase “Hola, ya se imprimir
 frases en JAVA”.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 /**
  *

@@ -3,7 +3,7 @@
 La fórmula para calcular el PERIMETRO = lado x 3
 La fórmula para calcular el AREA = (lado2 * √3) /4
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;

@@ -2,7 +2,7 @@
 14. Calcular el área de un ortoedro.
 Area = 2 * (a*b + a*c + b*c)
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import java.util.Scanner;

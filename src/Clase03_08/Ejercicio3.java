@@ -3,7 +3,7 @@ Escribir un programa que imprima la suma de 5000 y 250, la resta de 3215 y 782, 
 multiplicación de 3 y 100, la división de 15000 entre 500, la raíz cuadrada de 25 y elevar
 5 a la 3ra potencia.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;

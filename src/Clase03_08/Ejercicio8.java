@@ -2,7 +2,7 @@
 Escribir un programa que calcule el volumen de un cubo cuyo lado se ingresa por teclado.
 La fórmula para calcular el volumen de un cubo es: V = lado3
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import java.util.Scanner;

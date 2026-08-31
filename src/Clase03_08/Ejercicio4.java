@@ -2,7 +2,7 @@
 El área de un cuadrado es 5,76 cm2
 .Calcular el perímetro del cuadrado.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.sqrt;
 

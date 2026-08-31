@@ -4,7 +4,7 @@ y 6 zancudos). Dado que el peso promedio de las arañas es de 0.1 gramos, 0.05 p
 mosquitos y 0.095 para los zancudos. Dada la edad de la persona, calcular los kilogramos
 de bichos que ha consumido, mostrando el valor por cada categoría y el total.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import java.util.Scanner;
         

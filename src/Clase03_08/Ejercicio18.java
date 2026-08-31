@@ -1,7 +1,7 @@
 /*
 Imprimir la raíz cuadrada de un número que se ingresa por teclado.
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;

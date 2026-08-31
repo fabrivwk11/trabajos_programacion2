@@ -3,7 +3,7 @@
 ingresa por teclado.
 La fórmula para calcular el volumen de una esfera es: V = 4/3.π.r3
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import java.util.Scanner;

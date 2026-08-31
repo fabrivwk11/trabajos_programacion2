@@ -3,7 +3,7 @@
 La fórmula para calcular el PERIMETRO = 2 * PI * radio
 La fórmula para calcular el AREA: A = PI * radio2
  */
-package programacion2.Clase03_08;
+package Clase03_08;
 
 import static java.lang.Math.pow;
 import java.util.Scanner;
